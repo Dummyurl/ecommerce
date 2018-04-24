@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "379474972237",
+    "firebase_url": "https://my-calci-32b16.firebaseio.com",
+    "project_id": "my-calci-32b16",
+    "storage_bucket": "my-calci-32b16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379474972237:android:62842839a8beba5e",
+        "android_client_info": {
+          "package_name": "com.ps.androidecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379474972237-6ifkkc08ugm0c6vv9knnpd6i23hmd2ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD45zAhDZQ2k3N30fqHoORCI2FctfWXlYc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
